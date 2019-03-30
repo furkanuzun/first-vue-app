@@ -1,8 +1,8 @@
 # urun-ekleme
 
-> A Vue.js project
+> İlk vue.js uygulamam
 
-## Build Setup
+## Uygulamanın setup komutları
 
 ``` bash
 # install dependencies
