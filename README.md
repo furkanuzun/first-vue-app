@@ -1,6 +1,15 @@
-# urun-ekleme
+# Ürün Ekleme/Listeleme
 
 > İlk vue.js uygulamam
+
+Bu uygulama;
+
+* projeyi componentlere ayırma
+* eventBus
+* dinamik component
+* slot 
+
+kullanımını pekiştirmek amacıyla yazılmıştır.
 
 ## Uygulamanın setup komutları
 
